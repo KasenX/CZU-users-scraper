@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-dom": "*",
+        "fabpot/goutte": "^4.0"
+    }
+}
